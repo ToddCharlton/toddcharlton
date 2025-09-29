@@ -1,4 +1,4 @@
-## Hi there 👋
+## Jack of all trades, master of... some?
 
 - 🔭 I’m currently working on private scripts for AD migration
 - 🌱 I’m currently learning C++ and deeper understanding of Javascript, Python, and Go
